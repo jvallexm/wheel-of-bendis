@@ -1,0 +1,272 @@
+.head
+{
+  margin-top: 40px;
+}
+.btn
+{
+  font-family: "Oswald";
+  margin: 3px;
+  color: white;
+}
+.smol{
+ font-family: "Oswald";
+ margin: 0;
+}
+body
+{
+  background-color: rgb(100, 1, 1);
+}
+.white-text
+{
+  margin-top: 60px;
+    text-shadow: 3px 3px 3px black, 
+               3px 3px 5px black;
+  font-family: "Anton";
+  color: white;
+}
+.red-one
+{
+  color: rgb(140, 1, 1);
+}
+.blue-one
+{
+  color: rgb(1, 1, 140);
+}
+.opaque
+{
+  opacity: 1 !important;
+}
+.solicit
+{
+  color: black;
+}
+.app
+{
+  font-family: "Oswald";
+  margin-top: 20px;
+  max-width: 800px;
+}
+.off-top
+{
+  margin-bottom: 5px;
+}
+.fa
+{
+  text-shadow: 3px 3px 1px black;
+}
+.event{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/d/90/4f7dc878b57fe/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50% - 75px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-ig{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc65a5cab4a4/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50% - 200px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-maximum{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/f/b0/51dd882faec6e/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50%);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-aoa{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ec2b3fd596b9/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1010px 1578px;
+  background-position: 50% calc(50% - 75px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-avx{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/d/90/4f7dc878b57fe/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50% - 75px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-civil-war{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc5e6c93a70c/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50% - 30px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 600px;
+  box-shadow: 5px 5px 5px black;
+}
+.event-secret-wars{
+  background-image: url('https://i.annihil.us/u/prod/marvel/i/mg/d/03/5757174e3255d/detail.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 825px 1252px;
+  background-position: 50% calc(50% - 30px);
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  min-height: 500px;
+  box-shadow: 5px 5px 5px black;
+}
+.inside-event
+{
+  background-color:rgba(255, 255, 255, .79);  height: 100%;
+  border-radius: 20px;
+  min-height: 600px;
+  padding: 10px;
+}
+.middle-text
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.tab
+{
+   position: relative;
+   color: white;
+   font-size: 125%;
+   border-shadow: 0 0 0 black;
+}
+.nav-bar
+{
+  border-right: none !important;
+  
+}
+.tab-off
+{
+  background-color: rgb(1, 1, 140);
+}
+.tab-on
+{
+  background-color: white;
+  color: black !important;
+}
+.buttons
+{
+  margin: 10px;
+  padding: 10px;
+}
+.uc
+{
+  height: 500px;
+}
+.log-in-panel
+{
+  font-family: "Oswald";
+  color:white;
+  background-color: rgb(1, 1, 140);
+  min-width: 300px;
+  border-radius: 20px;
+  min-height: 250px;
+  z-index: 5;
+  box-shadow: 5px 5px 5px black;
+  padding: 10px;
+}
+input
+{
+  width: 225px;
+  box-shadow: 5px 5px 5px black;
+}
+.name-plate
+{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.submit-button
+{
+  margin-top: 20px;
+ font-size: 125%;
+}
+.btn-blue
+{
+  background-color:  rgb(1, 1, 140) !important;
+  box-shadow: 5px 5px 5px black;
+  font-size: 125%;
+}
+.btn-red
+{
+  background-color: rgb(140, 1, 1) !important;
+  box-shadow: 5px 5px 5px black;
+  font-size: 125%;
+}
+.btn-inverse
+{
+  background-color: white !important;
+  color: blue !important;
+  box-shadow: 5px 5px 5px black;
+}
+.red-border
+{
+  border: 2px solid red;
+}
+.error
+{
+  color:red;
+  font-weight: bold;
+}
+.result
+{
+  margin-top: 10px;
+  margin-bottom: -10px;
+  font-weight: bold;
+}
+.gray-out
+{
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  position: absolute;
+  background-color: rgba(255, 255, 255, .72);
+  min-height:100%;
+  min-width:100%;
+}
+.x-btn
+{
+  top: -20px;
+  right: -5px;
+  position: absolute;
+  border-radius: 0;
+  border-top-right-radius: 20px;
+  box-shadow: none;
+}
+.search-for
+{
+  margin-top: 20px;
+}
+.col-xs-2
+{
+  min-width: 50px;
+  text-align: right;
+  padding: 5px;
+}
